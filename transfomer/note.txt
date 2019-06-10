@@ -1,0 +1,2 @@
+Importance of Residuals:
+Residuals carry position informations to higher layers, among the imformation
